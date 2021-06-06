@@ -1,6 +1,6 @@
 # FYI
 
-This example is modified base on [THIS POST](JWT authorization in Flask)
+This example is modified base on [THIS POST](https://codeburst.io/jwt-authorization-in-flask-c63c1acf4eeb)
 
 I replaced the depending packages with the latest JWT 4.0 version, as some of the decorators name ware changed in the latest version.
 
